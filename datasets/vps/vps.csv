@@ -1,5 +1,4 @@
 provider,plan_name,virtualization,price_monthly,price_hourly,vcpu,cpu_type,ram_gb,storage_gb,storage_type,bandwidth_tb,port_speed_gbps,ipv4,ipv6,backup,snapshot,firewall,api,sla,location,os,link
-provider,plan_name,virtualization,price_monthly,price_hourly,vcpu,cpu_type,ram_gb,storage_gb,storage_type,bandwidth_tb,port_speed_gbps,ipv4,ipv6,backup,snapshot,firewall,api,sla,location,os,link
 Aliyun,SWAS 2C2G 200M Peak (promo ~38 CNY/year),KVM,3.17 CNY,n/a,2,Shared Intel/AMD,2,40-50,ESSD,unmetered (peak 0.2 Gbps),1,1,yes,yes,yes,yes,yes,99.95%,China,Linux/Windows,https://www.aliyun.com/product/swas
 Aliyun,ECS e-c1m1.large 2C2G 3M 40G (promo 99 CNY/year),KVM,8.25 CNY,~0.094 CNY,2,Intel Xeon Platinum (shared/econ),2,40,ESSD Entry,fixed 3 Mbps,1,1,yes,yes,yes,yes,yes,99.975%,China,Linux/Windows,https://www.aliyun.com/product/ecs
 Aliyun,ECS u1-c1m2.large 2C4G 5M 80G (promo 199 CNY/year),KVM,16.58 CNY,0.351 CNY,2,Intel Xeon Platinum,4,80,ESSD Entry,fixed 5 Mbps,1,1,yes,yes,yes,yes,yes,99.975%,China,Linux/Windows,https://www.aliyun.com/product/ecs
