@@ -7,4 +7,4 @@ Hetzner	CX43	€16.49	€0.0264	8 Intel/AMD	16GB	160GB	€0.5/month	1GBit	20TB +
 Hetzner	CAX31	€21.49	€0.0344	8 Ampere	16GB	160GB	€0.5/month	1GBit	20TB + €1/TB	Linux	KVM	NBG1, HEL1	99.90%	Ticket support, Email, Phone, Live chat	Yes
 Hetzner	CX53	€29.99	€0.0481	16 Intel/AMD	32GB	320GB	€0.5/month	1GBit	20TB + €1/TB	Linux	KVM	NBG1, HEL1	99.90%	Ticket support, Email, Phone, Live chat	Yes
 Hetzner	CAX41	€41.49	€0.0665	16 Ampere	32GB	320GB	€0.5/month	1GBit	20TB + €1/TB	Linux	KVM	NBG1, HEL1	99.90%	Ticket support, Email, Phone, Live chat	Yes
-Hetzner	CPX12	FSN1, NBG1, HEL1: €11.99 /n SIN1: €15.99	€0.0192	1 AMD	2GB	40GB NVMe	€0.5/month	1GBit	20TB + €1/TB	Linux	KVM	FSN1, NBG1, HEL1, SIN1	99.90%	Ticket support, Email, Phone, Live chat	Yes
+Hetzner	CPX12	FSN1, NBG1, HEL1: €11.99 / SIN1: €15.99	€0.0192	1 AMD	2GB	40GB NVMe	€0.5/month	1GBit	20TB + €1/TB	Linux	KVM	FSN1, NBG1, HEL1, SIN1	99.90%	Ticket support, Email, Phone, Live chat	Yes
