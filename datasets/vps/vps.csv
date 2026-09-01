@@ -1,1 +1,1 @@
-
+provider;plan_name;virtualization;price_monthly;price_hourly;vcpu;cpu_type;ram_gb;storage_gb;storage_type;bandwidth_tb;port_speed_gbps;ipv4;ipv6;backup;snapshot;firewall;api;sla;location;os;link
