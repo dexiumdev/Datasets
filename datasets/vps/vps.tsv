@@ -1,1 +1,9 @@
-Provider	Plan Name	Price per Month	vCPU	RAM	Storage	IPv4 Count	Bandwidth	Monthly Traffic	OS	Virtualization	Location	SLA	Support	Firewall/DDoS
+Provider	Plan Name	Price per Month	Price per Hour	vCPU	RAM	Storage	IPv4 Count	Bandwidth	Monthly Traffic	OS	Virtualization	Location	SLA	Support	Firewall/DDoS
+Hetzner	CX23	€5.99	0.0096€	2 Intel/AMD	4GB	40GB	€0.5/month	1GBit	20TB + €1/TB	Linux	KVM	NBG1, HEL1	99.90%	Ticket support, Email, Phone, Live chat	Yes
+Hetzner	CAX11	€6.49	0.0104€	2 Ampere	4GB	40GB	€0.5/month	1GBit	20TB + €1/TB	Linux	KVM	NBG1, HEL1	99.90%	Ticket support, Email, Phone, Live chat	Yes
+Hetzner	CX33	€8.99	0.0144€	4 Intel/AMD	8GB	80GB	€0.5/month	1GBit	20TB + €1/TB	Linux	KVM	NBG1, HEL1	99.90%	Ticket support, Email, Phone, Live chat	Yes
+Hetzner	CAX21	€10.99	0.0176€	4 Ampere	8GB	80GB	€0.5/month	1GBit	20TB + €1/TB	Linux	KVM	NBG1, HEL1	99.90%	Ticket support, Email, Phone, Live chat	Yes
+Hetzner	CX43	€16.49	0.0264€	8 Intel/AMD	16GB	160GB	€0.5/month	1GBit	20TB + €1/TB	Linux	KVM	NBG1, HEL1	99.90%	Ticket support, Email, Phone, Live chat	Yes
+Hetzner	CAX31	€21.49	0.0344€	8 Ampere	16GB	160GB	€0.5/month	1GBit	20TB + €1/TB	Linux	KVM	NBG1, HEL1	99.90%	Ticket support, Email, Phone, Live chat	Yes
+Hetzner	CX53	€29.99	0.0481€	16 Intel/AMD	32GB	320GB	€0.5/month	1GBit	20TB + €1/TB	Linux	KVM	NBG1, HEL1	99.90%	Ticket support, Email, Phone, Live chat	Yes
+Hetzner	CAX41	€41.49	0.0665€	16 Ampere	32GB	320GB	€0.5/month	1GBit	20TB + €1/TB	Linux	KVM	NBG1, HEL1	99.90%	Ticket support, Email, Phone, Live chat	YesProvider	Plan Name	Price per Month	vCPU	RAM	Storage	IPv4 Count	Bandwidth	Monthly Traffic	OS	Virtualization	Location	SLA	Support	Firewall/DDoS
