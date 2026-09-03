@@ -1,26 +1,26 @@
 Provider	Plan Name	Price per Month	Price per Hour	vCPU	RAM	Storage	IPv4 Count	Bandwidth	Monthly Traffic	OS	Virtualization	Region	Firewall/DDoS	Notes	Link
-Hetzner	CX23	€5.49	€0.0088	2 Intel/AMD	4GB	40GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
-Hetzner	CX33	€8.49	€0.0136	4 Intel/AMD	8GB	80GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
-Hetzner	CX43	€15.99	€0.0256	8 Intel/AMD	16GB	160GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
-Hetzner	CX53	€29.49	€0.0473	16 Intel/AMD	32GB	320GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
-Hetzner	CAX11	€5.99	€0.0096	2 Ampere	4GB	40GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
-Hetzner	CAX21	€10.49	€0.0168	4 Ampere	8GB	80GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
-Hetzner	CAX31	€20.99	€0.0336	8 Ampere	16GB	160GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
-Hetzner	CAX41	€40.99	€0.0657	16 Ampere	32GB	320GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
+Hetzner	CX23	€5.99	€0.0096	2 Intel/AMD	4GB	40GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
+Hetzner	CX33	€6.49	€0.0104	4 Intel/AMD	8GB	80GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
+Hetzner	CX43	€8.99	€0.0144	8 Intel/AMD	16GB	160GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
+Hetzner	CX53	€10.99	€0.0176	16 Intel/AMD	32GB	320GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
+Hetzner	CAX11	€16.49	€0.0264	2 Ampere	4GB	40GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
+Hetzner	CAX21	€21.49	€0.0344	4 Ampere	8GB	80GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
+Hetzner	CAX31	€29.99	€0.0481	8 Ampere	16GB	160GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
+Hetzner	CAX41	€41.49	€0.0665	16 Ampere	32GB	320GB NVMe	€0.5/month	1GBit	20TB (EU)	Linux	KVM	eu-central	Yes	EU: €1/TB overage	https://www.hetzner.com/cloud/cost-optimized/
 Hetzner	CPX12	€11.99	€0.0192	1 AMD	2GB	40GB NVMe	€0.5/month	1GBit	20TB (EU) / 1TB (AP)	Linux	KVM	eu-central, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB overage 	https://www.hetzner.com/cloud/regular-performance/
-Hetzner	CPX22	€19.49	€0.0320	2 AMD	4GB	80GB NVMe	€0.5/month	1GBit	20TB (EU) / 1TB (AP)	Linux	KVM	eu-central, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB overage 	https://www.hetzner.com/cloud/regular-performance/
-Hetzner	CPX32	€35.49	€0.0577	4 AMD	8GB	160GB NVMe	€0.5/month	1GBit	20TB (EU) / 2TB (AP)	Linux	KVM	eu-central, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB overage 	https://www.hetzner.com/cloud/regular-performance/
-Hetzner	CPX42	€69.49	€0.1122	8 AMD	16GB	320GB NVMe	€0.5/month	1GBit	20TB (EU) / 3TB (AP)	Linux	KVM	eu-central, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB overage 	https://www.hetzner.com/cloud/regular-performance/
-Hetzner	CPX52	€100.49	€0.1618	12 AMD	24GB	480GB NVMe	€0.5/month	1GBit	20TB (EU) / 4TB (AP)	Linux	KVM	eu-central, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB overage 	https://www.hetzner.com/cloud/regular-performance/
-Hetzner	CPX62	€129.99	€0.2091	16 AMD	32GB	640GB NVMe	€0.5/month	1GBit	20TB (EU) / 5TB (AP)	Linux	KVM	eu-central, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB overage 	https://www.hetzner.com/cloud/regular-performance/
-Hetzner	CPX11	~€4.99	€0.0288	2 AMD	2GB	40GB NVMe	€0.5/month	1GBit	1TB (US)	Linux	KVM	us-east, us-west	Yes	US: €1/TB overage	https://www.hetzner.com/cloud/regular-performance/
-Hetzner	CPX21	~€8.99	€0.0521	3 AMD	4GB	80GB NVMe	€0.5/month	1GBit	2TB (US)	Linux	KVM	us-east, us-west	Yes	US: €1/TB overage	https://www.hetzner.com/cloud/regular-performance/
-Hetzner	CPX31	~€15.49	€0.1009	4 AMD	8GB	160GB NVMe	€0.5/month	1GBit	3TB (US)	Linux	KVM	us-east, us-west	Yes	US: €1/TB overage	https://www.hetzner.com/cloud/regular-performance/
-Hetzner	CPX41	~€27.49	€0.1939	8 AMD	16GB	240GB NVMe	€0.5/month	1GBit	4TB (US)	Linux	KVM	us-east, us-west	Yes	US: €1/TB overage	https://www.hetzner.com/cloud/regular-performance/
-Hetzner	CPX51	~€52.49	€0.3822	16 AMD	32GB	360GB NVMe	€0.5/month	1GBit	5TB (US)	Linux	KVM	us-east, us-west	Yes	US: €1/TB overage	https://www.hetzner.com/cloud/regular-performance/
-Hetzner	CCX13	€42.99	€0.0697	2 AMD	8GB	80GB NVMe	€0.5/month	1GBit	20TB (EU) / 1TB (US/AP)	Linux	KVM	eu-central, us-east, us-west, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB / US: €1/TB overage	https://www.hetzner.com/cloud/general-purpose/
-Hetzner	CCX23	€85.99	€0.1386	4 AMD	16GB	160GB NVMe	€0.5/month	1GBit	20TB (EU) / 2TB (US/AP)	Linux	KVM	eu-central, us-east, us-west, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB / US: €1/TB overage	https://www.hetzner.com/cloud/general-purpose/
-Hetzner	CCX33	€138.49	€0.2227	8 AMD	32GB	240GB NVMe	€0.5/month	1GBit	30TB (EU) / 3TB (US/AP)	Linux	KVM	eu-central, us-east, us-west, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB / US: €1/TB overage	https://www.hetzner.com/cloud/general-purpose/
-Hetzner	CCX43	€275.99	€0.4431	16 AMD	64GB	360GB NVMe	€0.5/month	1GBit	40TB (EU) / 4TB (US/AP)	Linux	KVM	eu-central, us-east, us-west, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB / US: €1/TB overage	https://www.hetzner.com/cloud/general-purpose/
-Hetzner	CCX53	€533.49	€0.8558	32 AMD	128GB	600GB NVMe	€0.5/month	1GBit	50TB (EU) / 6TB (US/AP)	Linux	KVM	eu-central, us-east, us-west, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB / US: €1/TB overage	https://www.hetzner.com/cloud/general-purpose/
-Hetzner	CCX63	€853.49	€13.686	48 AMD	192GB	960GB NVMe	€0.5/month	1GBit	60TB (EU) / 8TB (US/AP)	Linux	KVM	eu-central, us-east, us-west, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB / US: €1/TB overage	https://www.hetzner.com/cloud/general-purpose/
+Hetzner	CPX22	€19.99	€0.0320	2 AMD	4GB	80GB NVMe	€0.5/month	1GBit	20TB (EU) / 1TB (AP)	Linux	KVM	eu-central, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB overage 	https://www.hetzner.com/cloud/regular-performance/
+Hetzner	CPX32	€35.99	€0.0577	4 AMD	8GB	160GB NVMe	€0.5/month	1GBit	20TB (EU) / 2TB (AP)	Linux	KVM	eu-central, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB overage 	https://www.hetzner.com/cloud/regular-performance/
+Hetzner	CPX42	€69.99	€0.1122	8 AMD	16GB	320GB NVMe	€0.5/month	1GBit	20TB (EU) / 3TB (AP)	Linux	KVM	eu-central, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB overage 	https://www.hetzner.com/cloud/regular-performance/
+Hetzner	CPX52	€100.99	€0.1618	12 AMD	24GB	480GB NVMe	€0.5/month	1GBit	20TB (EU) / 4TB (AP)	Linux	KVM	eu-central, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB overage 	https://www.hetzner.com/cloud/regular-performance/
+Hetzner	CPX62	€130.49	€0.2091	16 AMD	32GB	640GB NVMe	€0.5/month	1GBit	20TB (EU) / 5TB (AP)	Linux	KVM	eu-central, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB overage 	https://www.hetzner.com/cloud/regular-performance/
+Hetzner	CPX11	€17.99	€0.0288	2 AMD	2GB	40GB NVMe	€0.5/month	1GBit	1TB (US)	Linux	KVM	us-east, us-west	Yes	US: €1/TB overage	https://www.hetzner.com/cloud/regular-performance/
+Hetzner	CPX21	€32.49	€0.0521	3 AMD	4GB	80GB NVMe	€0.5/month	1GBit	2TB (US)	Linux	KVM	us-east, us-west	Yes	US: €1/TB overage	https://www.hetzner.com/cloud/regular-performance/
+Hetzner	CPX31	€62.99	€0.1009	4 AMD	8GB	160GB NVMe	€0.5/month	1GBit	3TB (US)	Linux	KVM	us-east, us-west	Yes	US: €1/TB overage	https://www.hetzner.com/cloud/regular-performance/
+Hetzner	CPX41	€120.99	€0.1939	8 AMD	16GB	240GB NVMe	€0.5/month	1GBit	4TB (US)	Linux	KVM	us-east, us-west	Yes	US: €1/TB overage	https://www.hetzner.com/cloud/regular-performance/
+Hetzner	CPX51	€238.49	€0.3822	16 AMD	32GB	360GB NVMe	€0.5/month	1GBit	5TB (US)	Linux	KVM	us-east, us-west	Yes	US: €1/TB overage	https://www.hetzner.com/cloud/regular-performance/
+Hetzner	CCX13	€43.49	€0.0697	2 AMD	8GB	80GB NVMe	€0.5/month	1GBit	20TB (EU) / 1TB (US/AP)	Linux	KVM	eu-central, us-east, us-west, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB / US: €1/TB overage	https://www.hetzner.com/cloud/general-purpose/
+Hetzner	CCX23	€86.49	€0.1386	4 AMD	16GB	160GB NVMe	€0.5/month	1GBit	20TB (EU) / 2TB (US/AP)	Linux	KVM	eu-central, us-east, us-west, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB / US: €1/TB overage	https://www.hetzner.com/cloud/general-purpose/
+Hetzner	CCX33	€138.99	€0.2227	8 AMD	32GB	240GB NVMe	€0.5/month	1GBit	30TB (EU) / 3TB (US/AP)	Linux	KVM	eu-central, us-east, us-west, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB / US: €1/TB overage	https://www.hetzner.com/cloud/general-purpose/
+Hetzner	CCX43	€276.49	€0.4431	16 AMD	64GB	360GB NVMe	€0.5/month	1GBit	40TB (EU) / 4TB (US/AP)	Linux	KVM	eu-central, us-east, us-west, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB / US: €1/TB overage	https://www.hetzner.com/cloud/general-purpose/
+Hetzner	CCX53	€533.99	€0.8558	32 AMD	128GB	600GB NVMe	€0.5/month	1GBit	50TB (EU) / 6TB (US/AP)	Linux	KVM	eu-central, us-east, us-west, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB / US: €1/TB overage	https://www.hetzner.com/cloud/general-purpose/
+Hetzner	CCX63	€853.99	€1.3686	48 AMD	192GB	960GB NVMe	€0.5/month	1GBit	60TB (EU) / 8TB (US/AP)	Linux	KVM	eu-central, us-east, us-west, ap-southeast	Yes	EU: €1/TB / AP: €7.40/TB / US: €1/TB overage	https://www.hetzner.com/cloud/general-purpose/
